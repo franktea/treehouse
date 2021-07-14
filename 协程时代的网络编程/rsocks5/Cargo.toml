@@ -1,0 +1,14 @@
+[package]
+name = "rsocks5"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+byteorder = "1"
+log = "0.4.14"
+
+[dev-dependencies]
+env_logger = "0.8.3"
