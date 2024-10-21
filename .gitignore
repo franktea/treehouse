@@ -31,5 +31,4 @@
 *.out
 *.app
 /.DS_Store
-/史上最快的字符串格式化库{fmt}及std::format/build/
-/程序员的专属雪花/snowflake/.DS_Store
+build
